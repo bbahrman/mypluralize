@@ -1,0 +1,31 @@
+{
+  "name": "mypluralize",
+  "version": "1.0.0",
+  "description": "https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbahrman/mypluralize.git"
+  },
+  "keywords": [],
+  "author": "Ben Bahrman <ben@bahrman.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbahrman/mypluralize/issues"
+  },
+  "homepage": "https://github.com/bbahrman/mypluralize#readme",
+  "devDependencies": {
+    "@types/pluralize": "0.0.28",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "typescript": "^2.7.1"
+  },
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  }
+}
