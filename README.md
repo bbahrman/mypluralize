@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/bbahrman/mypluralize.svg?branch=master)](https://travis-ci.org/bbahrman/mypluralize)
+[![Coverage Status](https://coveralls.io/repos/github/bbahrman/mypluralize/badge.svg?branch=master)](https://coveralls.io/github/bbahrman/mypluralize?branch=master)
+
 # mypluralize
 https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724
 
